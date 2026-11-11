@@ -1,0 +1,1 @@
+# codilility-assignment-1-practice
