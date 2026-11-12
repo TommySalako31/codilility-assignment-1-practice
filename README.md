@@ -1,4 +1,4 @@
-# Codility Assignment 1 - Practice
+# Codility Assignment 1 
 
 This repository contains my solutions to Codility programming problems.
 
@@ -10,8 +10,7 @@ Each problem includes:
 - Algorithm explanations and testing
 
 ## Programming Languages
-- Java 21 (Codility practice)
-- Python (university assignment)
+Python 
 
 ## AI Usage
 ChatGPT was used to assist with debugging, and understanding the questions.
