@@ -13,4 +13,4 @@ Each problem includes:
 Python 
 
 ## AI Usage
-ChatGPT was used to assist with debugging, and understanding the questions.
+ChatGPT was used to assist with understanding the questions.
